@@ -16,4 +16,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/mydemo-1.0.jar
+    - target/gs-maven-0.1.0.jar
